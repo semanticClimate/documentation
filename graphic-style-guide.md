@@ -9,7 +9,5 @@ Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Huds
 
 font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
-
-
 ## Colour palette
 
