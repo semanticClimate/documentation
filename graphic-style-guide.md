@@ -14,6 +14,8 @@ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sa
 
 https://coolors.co/364496-0088be-e7e3de-8893c5-000000-ffffff
 
+![palette](semcli.png)
+
 /* CSV */
 364496,0088be,e7e3de,8893c5,000000,ffffff
 
